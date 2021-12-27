@@ -1,0 +1,16 @@
+PODS:
+  - FXTask (0.1.0)
+
+DEPENDENCIES:
+  - FXTask (from `../`)
+
+EXTERNAL SOURCES:
+  FXTask:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FXTask: 932a8980ddbd63c774798bd6e5df8aaace64e14c
+
+PODFILE CHECKSUM: 9ed860a48aa235b9cde9474120a937b75b885e3e
+
+COCOAPODS: 1.11.2
