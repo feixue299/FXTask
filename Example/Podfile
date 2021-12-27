@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FXTask_Example' do
+  pod 'FXTask', :path => '../'
+
+  target 'FXTask_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
